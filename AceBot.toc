@@ -1,5 +1,5 @@
 ## Interface: 20502
-## Author: Eriseil
+## Author: Eriseil and others
 ## Version: v1.0.0
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
