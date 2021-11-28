@@ -1,0 +1,10 @@
+## Interface: 20502
+## Author: Eriseil
+## Version: v1.0.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+## Title: AceBot
+## Notes: Ace Quote Database
+
+AceBot.lua
